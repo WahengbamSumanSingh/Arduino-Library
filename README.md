@@ -1,6 +1,8 @@
 # Arduino-Library
 Arduino Sensor Library for Robotics And IOT
-# Example
+# Discriptions for EdulifeUltraSonic Library
+> Finding distances using ultrasonic sensor using arduino for robotics
+# Example For EdulifeUltraSonic
 - #include<EdulifeUltraSonic.h>
 - EdulifeUltraSonic MySonic(10,11); // Trig Pin And Echo Pin
 - void setup() {
@@ -10,7 +12,7 @@ Arduino Sensor Library for Robotics And IOT
 -   int dis = MySonic.distanceInCM();
 -   Serial.println(dis);
 - }
-# Functions
+# Functions for EdulifeUltraSonic
 1. distanceInCM - measuring distance in cm
 2. distanceInInches	 - measuring distance in Inches
 3. distanceInMM - measuring distance in mm
