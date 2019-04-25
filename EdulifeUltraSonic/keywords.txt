@@ -1,0 +1,16 @@
+#######################################
+# Syntax Color Mapping for EdulifeUltraSonic
+#######################################
+
+#######################################
+# Datatype (KEYWORD1)
+#######################################
+EdulifeUltraSonic	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+distanceInInches	KEYWORD2
+distanceInCM	KEYWORD2
+distanceInMM	KEYWORD2
+distanceInFoot	KEYWORD2
